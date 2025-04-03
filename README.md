@@ -38,8 +38,9 @@ This repository currently includes **1 project** (with more coming soon!) coveri
      - README.md   # Project documentation
    - Project_2_name/  
      ...  
-   -README.md
-   -LICENSE.md
+   - README.md
+   
+   - LICENSE.md
 
 
 ## Each project includes:
