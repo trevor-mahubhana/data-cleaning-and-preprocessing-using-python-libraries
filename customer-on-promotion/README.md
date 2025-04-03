@@ -2,23 +2,23 @@
 
 ![alt text](image.png)
 
-Customer Data Filtering for Call Desk Outreach
-Project Description
-Utilized Pandas and NumPy to filter and extract relevant customer data, including address, phone number, email, product name and more, while respecting customer preferences regarding contact. The goal was to identify and submit contact details of eligible customers to the call desk for targeted outreach. Demonstrated expertise in data manipulation, filtering, and analysis using Python's popular data science libraries.
+## Customer Data Filtering for Call Desk Outreach
+### Project Description
+- Utilized Pandas and NumPy to filter and extract relevant customer data, including address, phone number, email, product name and more, while respecting customer preferences regarding contact. The goal was to identify and submit contact details of eligible customers to the call desk for targeted outreach. Demonstrated expertise in data manipulation, filtering, and analysis using Python's popular data science libraries.
 
-Dataset Description
-The dataset contains details which I had made on my own just to try to build my skills on data cleaning and preprocessing using pandas, a python library. I had created one file which is in comma-separated-values (csv) format, stored in the raw data folder.
+### Dataset Description
+- The dataset contains details which I had made on my own just to try to build my skills on data cleaning and preprocessing using pandas, a python library. I had created one file which is in comma-separated-values (csv) format, stored in the raw data folder.
 
-Solution Description
-Check out the details of the lucky customers who will be called by the Call Desk, stored in the solution folder.
+### Solution Description
+- Check out the details of the lucky customers who will be called by the Call Desk, stored in the solution folder.
 
-Solution Files
-The solution files are in 2 different formats:
+### Solution Files
+ - The solution files are in 2 different formats:
 
 - Comma-separated values (csv) format
 - Excel (xlsx) format
 
-Columns Explained:
+### Columns Explained
 1. Customerid: it refers to the customerid id
 2. First name: first name of the customer
 3. Last name: last name of the customer
@@ -34,7 +34,7 @@ Columns Explained:
 13. Quantity: the number of products the customer had purchased
 14. Price: amount paid the products
 
-Task:
+### Task
 1. A full name of the customer
 2. Phone number in the same format
 3. Physical address should contain the street name/house number, location and city/town
