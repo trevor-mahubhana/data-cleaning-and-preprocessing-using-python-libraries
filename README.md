@@ -31,13 +31,16 @@ This repository currently includes **1 project** (with more coming soon!) coveri
 
 
 ## 📂 Project Structure
-data-preprocessing-and-cleaning/
-   Project_1_name/  
-     raw_data/          # Original datasets
-     code/              # Jupyter notebooks/Python scripts
-     README.md          # Project documentation
-   Project_2_name/  
+- data-preprocessing-and-cleaning/
+   - Project_1_name/  
+     - raw_data/   # Original datasets
+     - code/     # Jupyter notebooks/Python scripts
+     - README.md   # Project documentation
+   - Project_2_name/  
      ...  
+   -README.md
+   -LICENSE.md
+
 
 ## Each project includes:
 - 📊 Dataset (with proper source attribution)
