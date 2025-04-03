@@ -26,7 +26,7 @@ This repository currently includes **1 project** (with more coming soon!) coveri
 - Dimensionality reduction (PCA)
 
 ## 🚀 Getting Started
-git clone https://github.com/trevor-mahubhana/data-preprocessing-and-cleaning.git
+git clone https://github.com/trevor-mahubhana/data-cleaning-and-preprocessing-using-python-libraries.git
 cd data-preprocessing-and-cleaning
 
 ## 📂 Project Structure
