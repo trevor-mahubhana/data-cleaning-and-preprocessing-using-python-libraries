@@ -1,9 +1,6 @@
 
 
 ![alt text](image.png)
- 
- 
-Here's an updated version of your (link unavailable) file with the added project description:
 
 Customer Data Filtering for Call Desk Outreach
 Project Description
